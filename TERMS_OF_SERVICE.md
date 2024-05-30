@@ -1,4 +1,4 @@
-<center><h2><b> AUIB Notice App - TERMS OF SERVICE </h2></b></center>
+# AUIB Notice App - TERMS OF SERVICE 
 
 ## Effective Date: 1/06/2024
 
